@@ -1,2 +1,3 @@
 # Screenshot
-![dashboard2](https://github.com/user-attachments/assets/5dcc6ce6-a05e-4488-acf0-372d71bd283c)
+
+![dashboardUI2](https://github.com/user-attachments/assets/a26a2a7a-9f27-4a41-90e6-a4878816c826)
